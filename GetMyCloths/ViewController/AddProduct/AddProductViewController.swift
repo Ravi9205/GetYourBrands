@@ -1,19 +1,19 @@
 //
-//  ViewController.swift
+//  AddProductViewController.swift
 //  GetMyCloths
 //
-//  Created by Ravi Dwivedi on 09/04/23.
+//  Created by Ravi Dwivedi on 10/04/23.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+
+
+class AddProductViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
-
-
 }
-
